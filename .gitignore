@@ -361,3 +361,40 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Build results
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.log
+*.tlog
+*.lastbuildstate
+*.user
+*.cache
+*.aps
+*.suo
+
+# Visual Studio folders
+.vscode/
+.vs/
+Debug/
+Release/
+x64/
+ipch/
+
+# Other clutter
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# CMake cache (if applicable)
+CMakeFiles/
+CMakeCache.txt
